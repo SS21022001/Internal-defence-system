@@ -43,13 +43,13 @@ Install Python: Download and install the latest version of Python from the offic
 Set up a virtual environment (optional): It's recommended to set up a virtual environment to keep your project dependencies isolated. Open a command prompt and run the following commands:
 
 
-# Install the virtualenv package
+## Install the virtualenv package
 pip install virtualenv
 
-# Create a virtual environment
+## Create a virtual environment
 virtualenv myenv
 
-# Activate the virtual environment
+## Activate the virtual environment
 myenv\Scripts\activate
 Install required libraries: Fingerprint recognition may require specific libraries depending on the algorithm or technique you are using. One popular library for image processing is OpenCV. Install it using the following command:
 

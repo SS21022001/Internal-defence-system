@@ -1,7 +1,7 @@
 # Internal-defence-system
 PROJECT
 
-To integrate image recognition in windows
+# To integrate image recognition in windows
 
 To integrate image recognition Python code in Windows, you can follow these steps:
 
@@ -11,13 +11,13 @@ Set up a virtual environment (optional): It's recommended to set up a virtual en
 
 
 
-# Install the virtualenv package
+## Install the virtualenv package
 pip install virtualenv
 
-# Create a virtual environment
+## Create a virtual environment
 virtualenv myenv
 
-# Activate the virtual environment
+## Activate the virtual environment
 myenv\Scripts\activate
 Install required libraries: Install the necessary libraries for image recognition. For example, if you're using the TensorFlow library, you can install it with the following command:
 

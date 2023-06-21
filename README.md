@@ -1,5 +1,4 @@
 # Internal-defence-system
-PROJECT
 
 # To integrate image recognition in windows
 
